@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SyncMXOPERLOC xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creationDateTime="2021-08-27T12:23:32-04:00" baseLanguage="EN" transLanguage="EN" event="0" maximoVersion="7620180706-0100V7610-78">
+  <MXOPERLOCSet>
+    <LOCATIONS>
+      <LOCATION>Test</LOCATION>
+      <SITEID> TMUS</SITEID>
+	  <DESCRIPTION>9/1</DESCRIPTION>
+    </LOCATIONS>
+  </MXOPERLOCSet>
+</SyncMXOPERLOC>
